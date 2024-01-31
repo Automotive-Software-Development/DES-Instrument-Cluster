@@ -64,7 +64,7 @@ The next picture displays the resulting function for the voltage to battery leve
 $$
 y(x) = -25.6269 \cdot x^3 + 887.9706 \cdot x^2 - 10180.5203 \cdot x + 38661.8396 
 $$
-![Battery level fitting function](/batterylevelfitting.png)
+![Battery level fitting function](batterylevelfitting.png)
 
 ## 3. Calculate Battery Level
 To calculate the battery level the current battery voltage is requested. In order to reduce inaccuracies, the measured values ​​are given a moving average of 5 values. With the above formula the battery level can be calculated.
