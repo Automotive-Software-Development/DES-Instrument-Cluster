@@ -6,7 +6,8 @@ QT += quick dbus core
 
 SOURCES += \
         datareceiver.cpp \
-        main.cpp
+        main.cpp \
+        socketclient.cpp
 
 RESOURCES += qml.qrc
 
@@ -25,4 +26,5 @@ DISTFILES += \
     assets/battery2.png
 
 HEADERS += \
-    datareceiver.h
+    datareceiver.h \
+    socketclient.h

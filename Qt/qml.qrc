@@ -1,11 +1,12 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>assets/Dashboard.svg</file>
         <file>assets/background.png</file>
         <file>assets/background.svg</file>
-        <file>assets/needle.svg</file>
-        <file>assets/tickmark.svg</file>
-        <file>assets/battery2.png</file>
+        <file>assets/battery.png</file>
+        <file>assets/bg-mask.png</file>
+        <file>assets/left.svg</file>
+        <file>assets/right.svg</file>
+        <file>assets/car-highlights.png</file>
     </qresource>
 </RCC>
